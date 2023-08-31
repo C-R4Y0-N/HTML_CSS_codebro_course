@@ -1,0 +1,16 @@
+@font-face{
+    src:url(fonts/Unbounded-VariableFont_wght.ttf);
+    font-family:Unbounded;
+}
+h1{
+    font-family: verdana, arial;
+}
+#p1{
+    font-family: "lucida console","courier new";
+    font-size: 1em; /*Like 100% standar*/
+    font-weight: bold;
+    font-style: italic;
+}
+#p2{
+    font-family: "Unbounded";
+}

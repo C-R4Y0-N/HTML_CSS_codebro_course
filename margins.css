@@ -1,0 +1,19 @@
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+    /*margin:auto*/
+}
+
+#box1{
+    background-color: hsl(0, 100%, 60%);
+    /*margin-right:auto*/
+    /*margin-left:auto*/
+    /*margin-top:auto*/
+    /*margin-bottom:auto*/
+}
+#box2{
+    background-color: hsl(189, 100%, 60%);
+}
